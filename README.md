@@ -53,7 +53,8 @@ Kenji Maillard, Danel Ahman, Robert Atkey, Guido Martínez, Cătălin Hriţcu, E
 https://arxiv.org/pdf/1903.01237.pdf
 
 Efficient Differentiable Programming in a Functional Array-Processing Language  
-Amir Shaikhha, Andrew Fitzgibbon, Dimitrios Vytiniotis, Simon Peyton Jones
+Amir Shaikhha, Andrew Fitzgibbon, Dimitrios Vytiniotis, Simon Peyton Jones  
+(2018) https://arxiv.org/pdf/1806.02136.pdf
 
 Equations Reloaded  
 Matthieu Sozeau, Cyprien Mangin
@@ -66,7 +67,8 @@ Rajan Walia, Praveen Narayanan, Jacques Carette, Sam Tobin-Hochstadt, Chung-chie
 https://arxiv.org/pdf/1805.06562
 
 Fuzzi: A Three-Level Logic for Differential Privacy  
-Hengchu Zhang, Edo Roth, Andreas Haeberlen, Benjamin C. Pierce, Aaron Roth
+Hengchu Zhang, Edo Roth, Andreas Haeberlen, Benjamin C. Pierce, Aaron Roth  
+https://arxiv.org/pdf/1905.12594.pdf
 
 Higher-order Type-level Programming in Haskell  
 Csongor Kiss, Tony Field, Susan Eisenbach, Simon Peyton Jones  
@@ -95,10 +97,12 @@ Narcissus: Correct-By-Construction Derivation of Decoders and Encoders from Bina
 Benjamin Delaware, Sorawit Suriyakarn, Clément Pit-Claudel, Qianchuan Ye, Adam Chlipala
 
 Quantitative program reasoning with graded modal types  
-Dominic Orchard, Vilem-Benjamin Liepelt, Harley D. Eades III
+Dominic Orchard, Vilem-Benjamin Liepelt, Harley D. Eades III  
+draft https://granule-project.github.io/papers/granule-paper-draft.pdf
 
 Rebuilding Racket on Chez Scheme (Experience Report)  
-Matthew Flatt, Caner Derici, R. Kent Dybvig, Andy Keep, Gustavo E. Massaccesi, Sarah Spall, Sam Tobin-Hochstadt, Jon Zeppieri
+Matthew Flatt, Caner Derici, R. Kent Dybvig, Andy Keep, Gustavo E. Massaccesi, Sarah Spall, Sam Tobin-Hochstadt, Jon Zeppieri  
+(2018?) http://www.cs.utah.edu/~mflatt/tmp/rkt-on-chez.pdf
 
 Relational Cost Analysis for Functional-Imperative Programs  
 Weihao Qu, Marco Gaboardi, Deepak Garg
