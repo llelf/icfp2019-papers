@@ -4,6 +4,28 @@ https://icfp19.sigplan.org/track/icfp-2019-papers#event-overview
 
 ----
 
+Similar pages for older ICFP ([2012][icfp12], [2013][icfp13], [2014][icfp14], [2015][icfp15], [2016][icfp16], [2017][icfp17]),
+POPL ([2013][popl2013], [2014][popl2014], [2015][popl2015], [2016][popl2016]),
+and [PLDI 2014][pldi2014-accepted].
+
+ICFP 2018 (open access): https://icfp18.sigplan.org/track/icfp-2018-papers#event-overview
+
+[popl2013]: https://github.com/23Skidoo/popl13-papers-links
+[popl2014]: https://github.com/gasche/popl2014-papers
+[popl2015]: https://github.com/yallop/popl2015-papers
+[popl2016]: https://github.com/gasche/popl2016-papers
+[icfp12]: https://github.com/technogeeky/icfp12-paper-links
+[icfp13]: https://github.com/gasche/icfp2013-papers
+[icfp14]: https://github.com/yallop/icfp2014-papers
+[icfp15]: https://github.com/mpickering/icfp2015-papers
+[icfp16]: https://github.com/gasche/icfp2016-papers
+[icfp17]: https://github.com/gasche/icfp2017-papers
+[haskell2014-accepted]: https://github.com/yallop/haskell2014-papers
+[pldi2014-accepted]: https://github.com/yallop/pldi2014-papers
+
+
+----
+
 A Mechanical Formalization of Higher-Ranked Polymorphic Type Inference  
 Zhao Jinxu, Bruno C. d. S. Oliveira, Tom Schrijvers
 
