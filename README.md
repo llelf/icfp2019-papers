@@ -121,13 +121,15 @@ Simple Noninterference from Parametricity
 Maximilian Algehed, Jean-Philippe Bernardy
 
 Simply RaTT: A Fitch-style Modal Calculus for Reactive Programming Without Space Leaks  
-Patrick Bahr, Christian Uldal Graulund, Rasmus Ejlers Møgelberg
+Patrick Bahr, Christian Uldal Graulund, Rasmus Ejlers Møgelberg  
+https://arxiv.org/pdf/1903.05879v2.pdf
 
 Synthesizing Differentially Private Programs  
 Calvin Smith, Aws Albarghouthi
 
 Synthesizing Symmetric Lenses  
-Anders Miltner, Solomon Maina, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic
+Anders Miltner, Solomon Maina, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
+(2018) https://arxiv.org/pdf/1810.11527.pdf
 
 Teaching the Art of Functional Programming Using Automated Grading (Experience Report)  
 Aliya Hameer, Brigitte Pientka
