@@ -1,10 +1,15 @@
 ## ICFP 2019  
-	  
+
+https://icfp19.sigplan.org/track/icfp-2019-papers#event-overview
+
+----
+
 A Mechanical Formalization of Higher-Ranked Polymorphic Type Inference  
 Zhao Jinxu, Bruno C. d. S. Oliveira, Tom Schrijvers
 
 A Reasonably Exceptional Type Theory  
-Pierre-Marie Pédrot, Nicolas Tabareau, Hans Fehrmann, Éric Tanter
+Pierre-Marie Pédrot, Nicolas Tabareau, Hans Fehrmann, Éric Tanter  
+draft https://www.pédrot.fr/articles/reasonably-exceptional.pdf
 
 A Role for Dependent Types in Haskell  
 Stephanie Weirich, Pritam Choudhury, Antoine Voizard, Richard A. Eisenberg  
@@ -31,7 +36,8 @@ Coherence of Type Class Resolution
 Gert-Jan Bottu, Ningning Xie, Klara Mardirosian, Tom Schrijvers
 
 Compiling with Continuations, or without? Whatever.  
-Youyou Cong, Leo Osvald, Gregory Essertel, Tiark Rompf
+Youyou Cong, Leo Osvald, Gregory Essertel, Tiark Rompf  
+preprint https://www.cs.purdue.edu/homes/rompf/papers/cong-preprint201811.pdf
 
 Cubical Agda: A Dependently Typed Programming Language with Univalence and Higher Inductive Types  
 Andrea Vezzosi, Anders Mörtberg, Andreas Abel
@@ -57,6 +63,7 @@ Stefan K. Muller, Sam Westrick, Umut Acar
 
 From high-level inference algorithms to efficient code  
 Rajan Walia, Praveen Narayanan, Jacques Carette, Sam Tobin-Hochstadt, Chung-chieh Shan
+https://arxiv.org/pdf/1805.06562
 
 Fuzzi: A Three-Level Logic for Differential Privacy  
 Hengchu Zhang, Edo Roth, Andreas Haeberlen, Benjamin C. Pierce, Aaron Roth
