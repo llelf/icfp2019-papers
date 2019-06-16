@@ -122,7 +122,7 @@ Bert Lindenhovius, Michael Mislove, Vladimir Zamdzhiev
 
 Narcissus: Correct-By-Construction Derivation of Decoders and Encoders from Binary Formats  
 Benjamin Delaware, Sorawit Suriyakarn, Clément Pit-Claudel, Qianchuan Ye, Adam Chlipala
-https://pdfs.semanticscholar.org/0649/cf2ebef40cd69c468d9e92f4bb5dcfbdd0fa.pdf
+[preprint](https://arxiv.org/abs/1803.04870)
 
 Quantitative program reasoning with graded modal types  
 Dominic Orchard, Vilem-Benjamin Liepelt, Harley D. Eades III  
