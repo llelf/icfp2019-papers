@@ -31,15 +31,15 @@ Zhao Jinxu, Bruno C. d. S. Oliveira, Tom Schrijvers
 
 A Reasonably Exceptional Type Theory  
 Pierre-Marie Pédrot, Nicolas Tabareau, Hans Fehrmann, Éric Tanter  
-draft https://www.pédrot.fr/articles/reasonably-exceptional.pdf
+([draft](https://www.pédrot.fr/articles/reasonably-exceptional.pdf))
 
 A Role for Dependent Types in Haskell  
 Stephanie Weirich, Pritam Choudhury, Antoine Voizard, Richard A. Eisenberg  
-https://arxiv.org/pdf/1905.13706
+([paper](https://arxiv.org/pdf/1905.13706))
 
 A predicate transformer semantics for effects (Functional Pearl)  
 Wouter Swierstra, Tim Baanen  
-http://www.staff.science.uu.nl/~swier004/publications/2019-icfp-submission-a.pdf
+([paper](http://www.staff.science.uu.nl/~swier004/publications/2019-icfp-submission-a.pdf))
 
 An Efficient Algorithm for Type-Safe Structural Diffing  
 Victor Cacciari Miraldo, Wouter Swierstra
@@ -49,7 +49,7 @@ Joseph Eremondi, Éric Tanter, Ronald Garcia
 
 Call-By-Need is Clairvoyant Call-By-Value  
 Jennifer Hackett, Graham Hutton  
-https://www.cs.nott.ac.uk/~pszgmh/clairvoyant.pdf
+([preprint](https://www.cs.nott.ac.uk/~pszgmh/clairvoyant.pdf))
 
 Closure Conversion is Safe for Space  
 Zoe Paraskevopoulou, Andrew Appel
@@ -59,7 +59,7 @@ Gert-Jan Bottu, Ningning Xie, Klara Mardirosian, Tom Schrijvers
 
 Compiling with Continuations, or without? Whatever.  
 Youyou Cong, Leo Osvald, Gregory Essertel, Tiark Rompf  
-preprint https://www.cs.purdue.edu/homes/rompf/papers/cong-preprint201811.pdf
+([preprint](https://www.cs.purdue.edu/homes/rompf/papers/cong-preprint201811.pdf))
 
 Cubical Agda: A Dependently Typed Programming Language with Univalence and Higher Inductive Types  
 Andrea Vezzosi, Anders Mörtberg, Andreas Abel
@@ -72,11 +72,11 @@ David Thrane Christiansen, Iavor Diatchki, Robert Dockins, Joe Hendrix, Tristan 
 
 Dijkstra Monads for All  
 Kenji Maillard, Danel Ahman, Robert Atkey, Guido Martínez, Cătălin Hriţcu, Exequiel Rivas, Éric Tanter  
-https://arxiv.org/pdf/1903.01237.pdf
+([paper](https://arxiv.org/pdf/1903.01237.pdf))
 
 Efficient Differentiable Programming in a Functional Array-Processing Language  
 Amir Shaikhha, Andrew Fitzgibbon, Dimitrios Vytiniotis, Simon Peyton Jones  
-(2018) https://arxiv.org/pdf/1806.02136.pdf
+([2018 paper](https://arxiv.org/pdf/1806.02136.pdf))
 
 Equations Reloaded  
 Matthieu Sozeau, Cyprien Mangin
@@ -86,7 +86,7 @@ Stefan K. Muller, Sam Westrick, Umut Acar
 
 From high-level inference algorithms to efficient code  
 Rajan Walia, Praveen Narayanan, Jacques Carette, Sam Tobin-Hochstadt, Chung-chieh Shan
-https://arxiv.org/pdf/1805.06562
+([paper](https://arxiv.org/pdf/1805.06562))
 
 Fuzzi: A Three-Level Logic for Differential Privacy  
 Hengchu Zhang, Edo Roth, Andreas Haeberlen, Benjamin C. Pierce, Aaron Roth  
@@ -134,7 +134,7 @@ Benjamin Sherman, Jesse Michel, Michael Carbin
 
 Selective Applicative Functors  
 Andrey Mokhov, Georgy Lukyanov, Simon Marlow, Jeremie Dimino  
-https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf
+([paper](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf)) ([slides](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors-slides.pdf))
 
 Sequential Programming for Replicated Data Stores  
 Nicholas V. Lewchenko, Arjun Radhakrishna, Akash Gaonkar, Pavol Cerny
