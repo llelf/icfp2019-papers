@@ -63,9 +63,11 @@ Youyou Cong, Leo Osvald, Gregory Essertel, Tiark Rompf
 
 Cubical Agda: A Dependently Typed Programming Language with Univalence and Higher Inductive Types  
 Andrea Vezzosi, Anders Mörtberg, Andreas Abel
+http://www.cse.chalmers.se/~abela/types19-vezzosi.pdf
 
 Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator  
 Fei Wang, Daniel Zheng, James Decker, Xilun Wu, Gregory Essertel, Tiark Rompf
+https://arxiv.org/abs/1803.10228
 
 Dependently Typed Haskell in Industry (Experience Report)  
 David Thrane Christiansen, Iavor Diatchki, Robert Dockins, Joe Hendrix, Tristan Ravitch
@@ -80,6 +82,7 @@ Amir Shaikhha, Andrew Fitzgibbon, Dimitrios Vytiniotis, Simon Peyton Jones
 
 Equations Reloaded  
 Matthieu Sozeau, Cyprien Mangin
+https://hal.inria.fr/hal-01671777v2/
 
 Fairness in Responsive Parallelism  
 Stefan K. Muller, Sam Westrick, Umut Acar
@@ -98,6 +101,7 @@ https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell-5c8bb49
 
 Implementing a Modal Dependent Type Theory  
 Daniel Gratzer, Jonathan Sterling, Lars Birkedal
+https://cs.au.dk/~birke/papers/implementing-modal-dependent-type-theory-conf.pdf
 
 Lambda Calculus with Algebraic Simplification for Reduction Parallelization by Equational Reasoning  
 Akimasa Morihata
@@ -111,12 +115,14 @@ Thomas Van Strydonck, Frank Piessens, Dominique Devriese
 
 Mechanized Relational Verification of Concurrent Programs with Continuations  
 Amin Timany, Lars Birkedal
+([2018 paper](https://iris-project.org/pdfs/2018-logrelcc-submission.pdf))
 
 Mixed Linear and Non-linear Recursive Types  
 Bert Lindenhovius, Michael Mislove, Vladimir Zamdzhiev
 
 Narcissus: Correct-By-Construction Derivation of Decoders and Encoders from Binary Formats  
 Benjamin Delaware, Sorawit Suriyakarn, Clément Pit-Claudel, Qianchuan Ye, Adam Chlipala
+https://pdfs.semanticscholar.org/0649/cf2ebef40cd69c468d9e92f4bb5dcfbdd0fa.pdf
 
 Quantitative program reasoning with graded modal types  
 Dominic Orchard, Vilem-Benjamin Liepelt, Harley D. Eades III  
@@ -138,6 +144,7 @@ Andrey Mokhov, Georgy Lukyanov, Simon Marlow, Jeremie Dimino
 
 Sequential Programming for Replicated Data Stores  
 Nicholas V. Lewchenko, Arjun Radhakrishna, Akash Gaonkar, Pavol Cerny
+https://s.octalsrc.org/ipfs/QmasAG3JSja6mpTEVooN9ZgYRdMZy5ABr9MDZxoxXiCqx3/item/carol-lang-2018-12-14.pdf
 
 Simple Noninterference from Parametricity  
 Maximilian Algehed, Jean-Philippe Bernardy
@@ -155,6 +162,7 @@ Anders Miltner, Solomon Maina, Kathleen Fisher, Benjamin C. Pierce, David Walker
 
 Teaching the Art of Functional Programming Using Automated Grading (Experience Report)  
 Aliya Hameer, Brigitte Pientka
+https://www.cs.mcgill.ca/~bpientka/papers/learn-ocaml-icfp19.pdf
 
 The Next 700 Compiler Correctness Theorems. A Functional Pearl.  
 Daniel Patterson, Amal Ahmed
