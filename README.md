@@ -126,11 +126,11 @@ Benjamin Delaware, Sorawit Suriyakarn, Clément Pit-Claudel, Qianchuan Ye, Adam 
 
 **Quantitative program reasoning with graded modal types**  
 Dominic Orchard, Vilem-Benjamin Liepelt, Harley D. Eades III  
-draft https://granule-project.github.io/papers/granule-paper-draft.pdf
+([draft](https://granule-project.github.io/papers/granule-paper-draft.pdf))
 
 **Rebuilding Racket on Chez Scheme (Experience Report)**  
 Matthew Flatt, Caner Derici, R. Kent Dybvig, Andy Keep, Gustavo E. Massaccesi, Sarah Spall, Sam Tobin-Hochstadt, Jon Zeppieri  
-(2018?) http://www.cs.utah.edu/~mflatt/tmp/rkt-on-chez.pdf
+([2018(?) paper](http://www.cs.utah.edu/~mflatt/tmp/rkt-on-chez.pdf))
 
 **Relational Cost Analysis for Functional-Imperative Programs**  
 Weihao Qu, Marco Gaboardi, Deepak Garg
@@ -158,11 +158,11 @@ Calvin Smith, Aws Albarghouthi
 
 **Synthesizing Symmetric Lenses**  
 Anders Miltner, Solomon Maina, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
-(2018) https://arxiv.org/pdf/1810.11527.pdf
+([2018 paper](https://arxiv.org/pdf/1810.11527.pdf))
 
 **Teaching the Art of Functional Programming Using Automated Grading (Experience Report)**  
 Aliya Hameer, Brigitte Pientka  
-https://www.cs.mcgill.ca/~bpientka/papers/learn-ocaml-icfp19.pdf
+([paper](https://www.cs.mcgill.ca/~bpientka/papers/learn-ocaml-icfp19.pdf))
 
 **The Next 700 Compiler Correctness Theorems. A Functional Pearl.**  
 Daniel Patterson, Amal Ahmed
