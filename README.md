@@ -42,7 +42,8 @@ Wouter Swierstra, Tim Baanen
 ([paper](http://www.staff.science.uu.nl/~swier004/publications/2019-icfp-submission-a.pdf))
 
 **An Efficient Algorithm for Type-Safe Structural Diffing**  
-Victor Cacciari Miraldo, Wouter Swierstra
+Victor Cacciari Miraldo, Wouter Swierstra  
+([paper](http://www.staff.science.uu.nl/~swier004/publications/2019-icfp-submission-b.pdf))
 
 **Approximate Normalization for Gradual Dependent Types**  
 Joseph Eremondi, Éric Tanter, Ronald Garcia
