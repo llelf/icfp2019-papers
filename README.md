@@ -46,7 +46,8 @@ Victor Cacciari Miraldo, Wouter Swierstra
 ([paper](http://www.staff.science.uu.nl/~swier004/publications/2019-icfp-submission-b.pdf))
 
 **Approximate Normalization for Gradual Dependent Types**  
-Joseph Eremondi, Éric Tanter, Ronald Garcia
+Joseph Eremondi, Éric Tanter, Ronald Garcia  
+([preprint](https://arxiv.org/abs/1906.06469))
 
 **Call-By-Need is Clairvoyant Call-By-Value**  
 Jennifer Hackett, Graham Hutton  
