@@ -65,7 +65,7 @@ Youyou Cong, Leo Osvald, Gregory Essertel, Tiark Rompf
 
 **Cubical Agda: A Dependently Typed Programming Language with Univalence and Higher Inductive Types**  
 Andrea Vezzosi, Anders Mörtberg, Andreas Abel  
-([preprint](https://www.cs.cmu.edu/~amoertbe/papers/cubicalagda.pdf))
+([preprint](https://www.cs.cmu.edu/~amoertbe/papers/cubicalagda.pdf) [code](https://github.com/agda/cubical))
 
 **Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator**  
 Fei Wang, Daniel Zheng, James Decker, Xilun Wu, Gregory Essertel, Tiark Rompf  
