@@ -120,7 +120,8 @@ Amin Timany, Lars Birkedal
 ([2018 paper](https://iris-project.org/pdfs/2018-logrelcc-submission.pdf))
 
 **Mixed Linear and Non-linear Recursive Types**  
-Bert Lindenhovius, Michael Mislove, Vladimir Zamdzhiev
+Bert Lindenhovius, Michael Mislove, Vladimir Zamdzhiev  
+([preprint](https://arxiv.org/abs/1906.09503))
 
 **Narcissus: Correct-By-Construction Derivation of Decoders and Encoders from Binary Formats**  
 Benjamin Delaware, Sorawit Suriyakarn, Clément Pit-Claudel, Qianchuan Ye, Adam Chlipala  
