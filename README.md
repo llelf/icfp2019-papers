@@ -168,5 +168,5 @@ Aliya Hameer, Brigitte Pientka
 ([paper](https://www.cs.mcgill.ca/~bpientka/papers/learn-ocaml-icfp19.pdf))
 
 **The Next 700 Compiler Correctness Theorems (Functional Pearl)**  
-Daniel Patterson, Amal Ahmed
+Daniel Patterson, Amal Ahmed  
 ([paper](https://dbp.io/pubs/2019/ccc.pdf))
