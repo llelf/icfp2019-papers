@@ -57,7 +57,8 @@ Jennifer Hackett, Graham Hutton
 Zoe Paraskevopoulou, Andrew Appel
 
 **Coherence of Type Class Resolution**  
-Gert-Jan Bottu, Ningning Xie, Klara Mardirosian, Tom Schrijvers
+Gert-Jan Bottu, Ningning Xie, Klara Mardirosian, Tom Schrijvers  
+([paper](https://arxiv.org/pdf/1907.00844))
 
 **Compiling with Continuations, or without? Whatever.**  
 Youyou Cong, Leo Osvald, Gregory Essertel, Tiark Rompf  
