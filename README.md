@@ -27,7 +27,8 @@ ICFP 2018 (open access): https://icfp18.sigplan.org/track/icfp-2018-papers#event
 ----
 
 **A Mechanical Formalization of Higher-Ranked Polymorphic Type Inference**  
-Zhao Jinxu, Bruno C. d. S. Oliveira, Tom Schrijvers
+Jinxu Zhao, Bruno C. d. S. Oliveira, Tom Schrijvers  
+([paper](https://i.cs.hku.hk/~bruno/papers/icfp2019.pdf))
 
 **A Reasonably Exceptional Type Theory**  
 Pierre-Marie Pédrot, Nicolas Tabareau, Hans Fehrmann, Éric Tanter  
