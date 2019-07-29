@@ -141,7 +141,8 @@ Matthew Flatt, Caner Derici, R. Kent Dybvig, Andy Keep, Gustavo E. Massaccesi, S
 Weihao Qu, Marco Gaboardi, Deepak Garg
 
 **Robust and sound solid modeling via exact real arithmetic and continuity**  
-Benjamin Sherman, Jesse Michel, Michael Carbin
+Benjamin Sherman, Jesse Michel, Michael Carbin  
+([paper](https://people.csail.mit.edu/sherman/papers/icfp19.pdf))
 
 **Selective Applicative Functors**  
 Andrey Mokhov, Georgy Lukyanov, Simon Marlow, Jeremie Dimino  
