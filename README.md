@@ -152,14 +152,16 @@ Nicholas V. Lewchenko, Arjun Radhakrishna, Akash Gaonkar, Pavol Cerny
 https://s.octalsrc.org/ipfs/QmasAG3JSja6mpTEVooN9ZgYRdMZy5ABr9MDZxoxXiCqx3/item/carol-lang-2018-12-14.pdf
 
 **Simple Noninterference from Parametricity**  
-Maximilian Algehed, Jean-Philippe Bernardy
+Maximilian Algehed, Jean-Philippe Bernardy  
+([paper](http://www.cse.chalmers.se/~algehed/papers/Noninterference-icfp2019.pdf))
 
 **Simply RaTT: A Fitch-style Modal Calculus for Reactive Programming Without Space Leaks**  
 Patrick Bahr, Christian Uldal Graulund, Rasmus Ejlers Møgelberg  
 https://arxiv.org/pdf/1903.05879v2.pdf
 
 **Synthesizing Differentially Private Programs**  
-Calvin Smith, Aws Albarghouthi
+Calvin Smith, Aws Albarghouthi  
+([paper](http://pages.cs.wisc.edu/~aws/papers/icfp19.pdf))
 
 **Synthesizing Symmetric Lenses**  
 Anders Miltner, Solomon Maina, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
