@@ -55,7 +55,8 @@ Jennifer Hackett, Graham Hutton
 ([preprint](https://www.cs.nott.ac.uk/~pszgmh/clairvoyant.pdf))
 
 **Closure Conversion is Safe for Space**  
-Zoe Paraskevopoulou, Andrew Appel
+Zoe Paraskevopoulou, Andrew Appel  
+([paper](https://www.cs.princeton.edu/~appel/papers/safe-closure.pdf))
 
 **Coherence of Type Class Resolution**  
 Gert-Jan Bottu, Ningning Xie, Klara Mardirosian, Tom Schrijvers  
@@ -74,7 +75,8 @@ Fei Wang, Daniel Zheng, James Decker, Xilun Wu, Gregory Essertel, Tiark Rompf
 https://arxiv.org/abs/1803.10228
 
 **Dependently Typed Haskell in Industry (Experience Report)**  
-David Thrane Christiansen, Iavor Diatchki, Robert Dockins, Joe Hendrix, Tristan Ravitch
+David Thrane Christiansen, Iavor Diatchki, Robert Dockins, Joe Hendrix, Tristan Ravitch  
+([paper](http://www.davidchristiansen.dk/pubs/dependent-haskell-experience-report.pdf))
 
 **Dijkstra Monads for All**  
 Kenji Maillard, Danel Ahman, Robert Atkey, Guido Martínez, Cătălin Hriţcu, Exequiel Rivas, Éric Tanter  
@@ -138,10 +140,12 @@ Matthew Flatt, Caner Derici, R. Kent Dybvig, Andy Keep, Gustavo E. Massaccesi, S
 ([2018(?) paper](http://www.cs.utah.edu/~mflatt/tmp/rkt-on-chez.pdf))
 
 **Relational Cost Analysis for Functional-Imperative Programs**  
-Weihao Qu, Marco Gaboardi, Deepak Garg
+Weihao Qu, Marco Gaboardi, Deepak Garg  
+([paper](https://people.mpi-sws.org/~dg/papers/icfp19.pdf))
 
 **Robust and sound solid modeling via exact real arithmetic and continuity**  
-Benjamin Sherman, Jesse Michel, Michael Carbin
+Benjamin Sherman, Jesse Michel, Michael Carbin  
+([paper](https://people.csail.mit.edu/sherman/papers/icfp19.pdf))
 
 **Selective Applicative Functors**  
 Andrey Mokhov, Georgy Lukyanov, Simon Marlow, Jeremie Dimino  
@@ -152,14 +156,16 @@ Nicholas V. Lewchenko, Arjun Radhakrishna, Akash Gaonkar, Pavol Cerny
 https://s.octalsrc.org/ipfs/QmasAG3JSja6mpTEVooN9ZgYRdMZy5ABr9MDZxoxXiCqx3/item/carol-lang-2018-12-14.pdf
 
 **Simple Noninterference from Parametricity**  
-Maximilian Algehed, Jean-Philippe Bernardy
+Maximilian Algehed, Jean-Philippe Bernardy  
+([paper](http://www.cse.chalmers.se/~algehed/papers/Noninterference-icfp2019.pdf))
 
 **Simply RaTT: A Fitch-style Modal Calculus for Reactive Programming Without Space Leaks**  
 Patrick Bahr, Christian Uldal Graulund, Rasmus Ejlers Møgelberg  
 https://arxiv.org/pdf/1903.05879v2.pdf
 
 **Synthesizing Differentially Private Programs**  
-Calvin Smith, Aws Albarghouthi
+Calvin Smith, Aws Albarghouthi  
+([paper](http://pages.cs.wisc.edu/~aws/papers/icfp19.pdf))
 
 **Synthesizing Symmetric Lenses**  
 Anders Miltner, Solomon Maina, Kathleen Fisher, Benjamin C. Pierce, David Walker, Steve Zdancewic  
